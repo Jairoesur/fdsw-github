@@ -37,3 +37,9 @@ body {
   }
 
 }
+.logo-text {
+  font-size: 28px;
+  font-weight: 700;
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 1px;
+}
